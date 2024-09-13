@@ -18,6 +18,9 @@ The data had the following fields :
     * end_lng
     * member_casual
 
+Link to Tableau Visualisation
+[My Visualisation](https://public.tableau.com/views/CitiBikeViz_17261223266100/Rider_count_per_month?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Analysis
 
 ### 1. The Map
