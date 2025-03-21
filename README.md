@@ -1,4 +1,4 @@
-# tableau_challenge
+# CitiBike Visualization
 
 I downloaded data from <https://s3.amazonaws.com/tripdata/index.html> for the year 2022.
 I downloaded the monthly data for the entire year and combined them into one json file using python.
